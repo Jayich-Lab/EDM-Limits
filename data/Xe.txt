@@ -1,0 +1,5 @@
+# publication year, EDM limit in e*cm, and reference identifier
+2019	1.4e-27	Sachdeva2019
+2019	1.5e-27	Allmendinger2019
+1984	2.7e-26	Vold1984
+2001	7.5e-27	Rosenberry2001

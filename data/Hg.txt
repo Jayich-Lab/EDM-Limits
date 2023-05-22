@@ -1,0 +1,7 @@
+# publication year, EDM limit in e*cm, and reference identifier
+2016	7.4e-30	Graner2016
+2009	3.1e-29	Griffith2009
+2001	2.1e-28	Romalis2001
+1995	8.7e-28	Jacobs1995
+1993	1.3e-27	Jacobs1993
+1987	3.7e-26	Lamoreaux1987
