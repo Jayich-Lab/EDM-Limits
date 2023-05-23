@@ -2,7 +2,25 @@
 
 # EDM-Limits
 
+---
 
+# Hadronic EDMs
+<img align="left" width="300" src="plots/hadronic-edm-limits.png">  
 
-# Hadronic EDM Limits
-<img align="right" width="300" src="plots/hadronic-edm-limits.png">
+---
+
+# Theta QCD bounds
+<img align="left" width="300" src="plots/theta-qcd-limits.png">  
+&nbsp; \
+  &nbsp; \
+&nbsp;
+
+---
+
+# Quark chromo EDM bounds
+<img align="left" width="300" src="plots/quark-chromo-edm-limits.png"> 
+&nbsp;
+---
+
+# New particle mass reach
+<img align="left" width="300" src="plots/new-particle-limits.png">
