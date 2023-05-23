@@ -10,9 +10,12 @@
 # Theta QCD bounds
 <img align="left" width="300" src="plots/theta-qcd-limits.png">  
 
+---
+
 # Quark chromo EDM bounds
 <img align="center" width="300" src="plots/quark-chromo-edm-limits.png">. 
 
+---
 
 # New particle mass reach
 <img align="center" width="300" src="plots/new-particle-limits.png">
