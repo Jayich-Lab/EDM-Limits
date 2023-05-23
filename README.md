@@ -11,7 +11,10 @@
 
 # Theta QCD bounds
 <img align="left" width="300" src="plots/theta-qcd-limits.png">  
+&nbsp; \
+  &nbsp; \
 &nbsp;
+
 ---
 
 # Quark chromo EDM bounds
