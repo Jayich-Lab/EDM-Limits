@@ -8,12 +8,12 @@
 <img align="left" width="300" src="plots/hadronic-edm-limits.png">  
 
 # Theta QCD bounds
-<img align="left" width="300" src="plots/theta-qcd-limits.png">  
+[<img align="left" width="300" src="plots/theta-qcd-limits.png">]  
 
 ---
 
 # Quark chromo EDM bounds
-<img align="left" width="300" src="plots/quark-chromo-edm-limits.png">. 
+[<img align="left" width="300" src="plots/quark-chromo-edm-limits.png">] 
 
 ---
 
