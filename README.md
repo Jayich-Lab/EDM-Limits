@@ -1,26 +1,43 @@
 [![MIT Licencse](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-# EDM-Limits
+
+Introductory text
 
 ---
 
-# Hadronic EDMs
-<img align="left" width="300" src="plots/hadronic-edm-limits.png">  
+<img align="right" width="300" src="plots/hadronic-edm-limits.png">  
+
+# **Hadronic EDMs**
+test text\
+test text\
+test text\
 
 ---
 
-# Theta QCD bounds
-<img align="left" width="300" src="plots/theta-qcd-limits.png">  
-&nbsp; \
+<img align="right" width="300" src="plots/theta-qcd-limits.png">  
+
+
+# **Theta QCD bounds**
+test text\
+test text\
+test text\
   &nbsp; \
-&nbsp;
+&nbsp; 
 
 ---
 
-# Quark chromo EDM bounds
-<img align="left" width="300" src="plots/quark-chromo-edm-limits.png"> 
-&nbsp;
+<img align="right" width="300" src="plots/quark-chromo-edm-limits.png"> 
+
+# **Quark chromo EDM bounds**
+test text\
+test text\
+test text\
+  &nbsp; \
+    &nbsp; \
+ &nbsp; 
+
+
 ---
 
-# New particle mass reach
-<img align="left" width="300" src="plots/new-particle-limits.png">
+# **New particle mass reach**
+<img align="right" width="300" src="plots/new-particle-limits.png">
