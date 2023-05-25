@@ -7,12 +7,12 @@ This is a community resource for making EDM plots.  The most reliable numbers ar
 <img align="right" width="300" src="plots/hadronic-edm-limits.png">  
 
 # **Hadronic EDMs**
-test text\
-test text\
-test text\
-test text\
-test text\
-test text\
+plot [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/hadronic-edm-limits.png) \
+&nbsp; \
+&nbsp; \
+&nbsp; \
+&nbsp; \
+&nbsp; 
 
 ---
 
@@ -23,7 +23,8 @@ test text\
 test text\
 test text\
 test text\
-  &nbsp; \
+&nbsp; \
+&nbsp; \
 &nbsp; 
 
 ---
@@ -34,9 +35,9 @@ test text\
 test text\
 test text\
 test text\
-  &nbsp; \
-    &nbsp; \
- &nbsp; 
+&nbsp; \
+&nbsp; \
+&nbsp; 
 
 
 ---
@@ -49,6 +50,9 @@ test text\
 test text\
 test text\
 test text\
+&nbsp; \
+&nbsp; 
+
 
 # To-Dos
 
