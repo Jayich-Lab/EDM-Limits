@@ -20,9 +20,9 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/hadronic-edm
 
 
 # **Theta QCD bounds**
-test text\
-test text\
-test text\
+plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/theta-qcd-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/theta-qcd-limits.pdf) \
+&nbsp; \
+&nbsp; \
 &nbsp; \
 &nbsp; \
 &nbsp; 
@@ -32,9 +32,9 @@ test text\
 <img align="right" width="300" src="plots/quark-chromo-edm-limits.png"> 
 
 # **Quark chromo EDM bounds**
-test text\
-test text\
-test text\
+plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/quark-chromo-edm-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/quark-chromo-edm-limits.pdf) \
+&nbsp; \
+&nbsp; \
 &nbsp; \
 &nbsp; \
 &nbsp; 
@@ -44,12 +44,10 @@ test text\
 
 <img align="right" width="300" src="plots/new-particle-limits.png">
 
-
 # **New particle mass reach**
-
-test text\
-test text\
-test text\
+plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle-limits.pdf) \
+&nbsp; \
+&nbsp; \
 &nbsp; \
 &nbsp; 
 
