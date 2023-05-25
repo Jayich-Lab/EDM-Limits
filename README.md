@@ -11,6 +11,9 @@ Introductory text
 test text\
 test text\
 test text\
+test text\
+test text\
+test text\
 
 ---
 
@@ -39,5 +42,14 @@ test text\
 
 ---
 
-# **New particle mass reach**
 <img align="right" width="300" src="plots/new-particle-limits.png">
+
+
+# **New particle mass reach**
+
+test text\
+test text\
+test text\
+
+
+# Acknowledgements
