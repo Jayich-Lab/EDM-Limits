@@ -1,13 +1,13 @@
 [![MIT Licencse](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-This is a community resource for making EDM plots.  The most reliable numbers are the measured EDM values.  Bounds on Theta QCD, etc. rely on conversion factors that come with their own uncertainties.  This is very much a work in progress (see the [To-Dos](#To-Dos) ) but I wanted to get this public so accessing the data is easy and so that I can receive feedback.  
+This is a community resource for making EDM plots.  The most reliable numbers are the measured EDM values (found in the [data files](https://github.com/Jayich-Lab/EDM-Limits/tree/main/data).  Bounds on Theta QCD, etc. are derived from the EDM values and rely on conversion factors that come with their own uncertainties.  This is a work in progress (see the [To-Dos](#To-Dos) ), but I wanted to make this public to streamline data access and so that I can receive feedback.  
 
 ---
 
 <img align="right" width="300" src="plots/hadronic-edm-limits.png">  
 
 # **Hadronic EDMs**
-plot [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/hadronic-edm-limits.png) \
+plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/hadronic-edm-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/hadronic-edm-limits.pdf) \
 &nbsp; \
 &nbsp; \
 &nbsp; \
