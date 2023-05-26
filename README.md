@@ -1,6 +1,6 @@
 [![MIT Licencse](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-This is a community resource for making EDM plots.  The most reliable numbers are the measured EDM values (found in the [data files](https://github.com/Jayich-Lab/EDM-Limits/tree/main/data).  Bounds on Theta QCD, etc. are derived from the EDM values and rely on conversion factors that come with their own uncertainties.  The new particle mass reach is not based on published values and should be taken as illustrative.  This repository is a work in progress (see the [To-Dos](#To-Dos) ), but I wanted to make this public to streamline data access and to receive feedback.  
+This is a community resource for making EDM plots.  The most reliable numbers are the measured EDM values (found in the [data files](https://github.com/Jayich-Lab/EDM-Limits/tree/main/data).  Bounds on Theta QCD, etc. are derived from the EDM values and rely on conversion factors that come with their own uncertainties.  The new particle mass reach is not based on published values and should be taken as illustrative.  This repository is a work in progress with many rough edges (see the [To-Dos](#To-Dos) ), but I wanted to make this public to streamline data access and to receive feedback.  
 
 ---
 
@@ -57,7 +57,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 * Yb-171 limit
 * Make references more accessible
 * Include all conversion factors (with references), and set some as “default” for making plots.
-* Report limits on “quark cEDMs” as a normalized linear combination of d_u & d_d e.g. (1/sqrt(2)) (d_u – d_d) or (1/sqrt(5))(2d_d + d_u).
+* Report limits on quark cEDMs as a normalized linear combination of d_u & d_d, e.g. (1/sqrt(2)) (d_u – d_d) or (1/sqrt(5))(2d_d + d_u).
 * electron EDMs
 * Unify confidence limits
 * Cs MQM
@@ -67,8 +67,9 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 
 
 # Acknowledgements
+
+**Thank you to**: Jordy De Vries, Dave DeMille, Mingyu Fan, Luka Sever-Walter, and Jaideep Singh for help making the plots.
+
 This repository was inspired by https://github.com/cajohare/AxionLimits
 
-
-**Thank you to**: Jordy De Vries, Dave DeMille, Luka Sever-Walter, and Jaideep Singh for help making the plots.
 
