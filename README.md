@@ -60,6 +60,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 * Report limits on quark cEDMs as a normalized linear combination of d_u & d_d, e.g. (1/sqrt(2)) (d_u – d_d) or (1/sqrt(5))(2d_d + d_u).
 * Get Altarev1998 reference
 * Get Ramsey1977 reference
+* Get Altarev1986 reference
 * electron EDMs
 * Unify confidence limits
 * Cs MQM
