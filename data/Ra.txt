@@ -1,3 +1,3 @@
 # publication year, EDM limit in e*cm, and reference identifier
-2015	5.0e-22	Parker2015
 2016    1.4e-23 Bishof2016
+2015	5.0e-22	Parker2015
