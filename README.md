@@ -55,7 +55,6 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 # To-Dos
 
 * Yb-171 limit
-* Make references more accessible
 * Include all conversion factors (with references), and set some as “default” for making plots.
 * Report limits on quark cEDMs as a normalized linear combination of d_u & d_d, e.g. (1/sqrt(2)) (d_u – d_d) or (1/sqrt(5))(2d_d + d_u).
 * Get Altarev1998 reference
