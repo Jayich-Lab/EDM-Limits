@@ -1,0 +1,3 @@
+# publication year, eEDM limit in e*cm, reference key
+1989	3.8e-25	Hinds1989
+1984	2.2e-23	Larson1984

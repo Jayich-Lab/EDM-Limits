@@ -1,0 +1,2 @@
+# publication year, eEDM limit in e*cm, reference key
+2013	1.7e-26	Eckel2013

@@ -1,0 +1,8 @@
+# publication year, eEDM limit in e*cm, reference key
+1989	8.5e-26	Hunter1989
+1968	3e-24	Stein1968
+1967	1e-22	Tinker1967
+1967	2.2e-23	Weisskopf1967
+1964	2e-21	Lipworth1964
+1966	5e-22	Sandars1966
+1968	7.1e-22	Weisskopf1968

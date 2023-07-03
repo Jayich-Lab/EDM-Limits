@@ -1,0 +1,4 @@
+# publication year, eEDM limit in e*cm, reference key
+2023	4.1e-30	Cornell2022
+2017	1.3e-28	Cornell2017
+2013	1.5e-25	Cornell2013
