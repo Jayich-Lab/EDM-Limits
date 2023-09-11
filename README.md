@@ -53,6 +53,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 
 ---
 
+<img align="right" width="300" src="plots/electron-edm-limits.png">
 
 # **Electron EDM limits**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm-limits.pdf) \
@@ -64,6 +65,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm
 
 ---
 
+<img align="right" width="300" src="plots/e-edm-1-loop.png">
 
 # **eEDM 1 loop mass reach**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop.pdf) \
@@ -75,6 +77,8 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop
 
 
 ---
+
+<img align="right" width="300" src="plots/e-edm-2-loop.png">
 
 
 # **eEDM 2 loop mass reach**
