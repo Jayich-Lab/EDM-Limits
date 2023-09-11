@@ -1,5 +1,5 @@
 # publication year, eEDM limit in e*cm, reference key
-2009	3e-27	Fortson2009
-1995	6e-26	Fortson1995
-1993	9e-26	Fortson1993
-1987	1.6e-24	Fortson1987
+2009	3e-27	Griffith2009
+1995	6e-26	Jacobs1995
+1993	9e-26	Jacobs1993
+1987	1.6e-24	Lamoreaux1987

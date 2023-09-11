@@ -1,5 +1,5 @@
 # publication year, eEDM limit in e*cm, reference key
-2001	1.6e-27	DeMille2001
-1994	4e-27	Regan1994
-1990	1.1e-26	Ross1990
+2001	1.6e-27	Regan2002
+1994	4e-27	Commins1994
+1990	1.1e-26	Abdullah1990
 1970	1.8e-23	Gould1970

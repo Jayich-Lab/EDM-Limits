@@ -1,2 +1,3 @@
 # publication year, eEDM limit in e*cm, reference key
-1970	2.9e-24	Sandars1970
+1984	1.75e-23	Vold1984
+1970	2.9e-24	Player1970
