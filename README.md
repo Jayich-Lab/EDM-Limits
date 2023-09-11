@@ -51,6 +51,40 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 &nbsp; \
 &nbsp; 
 
+---
+
+
+# **Electron EDM limits**
+plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm-limits.pdf) \
+&nbsp; \
+&nbsp; \
+&nbsp; \
+&nbsp; \
+&nbsp; 
+
+---
+
+
+# **eEDM 1 loop mass reach**
+plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop.pdf) \
+&nbsp; \
+&nbsp; \
+&nbsp; \
+&nbsp; \
+&nbsp; 
+
+
+---
+
+
+# **eEDM 2 loop mass reach**
+plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-2-loop.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-2-loop.pdf) \
+&nbsp; \
+&nbsp; \
+&nbsp; \
+&nbsp; \
+&nbsp; 
+
 
 # To-Dos
 
@@ -70,7 +104,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 
 # Acknowledgements
 
-**Thank you to**: Jordy De Vries, Dave DeMille, Mingyu Fan, Luka Sever-Walter, and Jaideep Singh for help making the plots.
+**Thank you to**: Jordy De Vries, Dave DeMille, Mingyu Fan, Nick Hutzler, Luka Sever-Walter, and Jaideep Singh for help making the plots.
 
 This repository was inspired by https://github.com/cajohare/AxionLimits
 
