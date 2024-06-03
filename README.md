@@ -1,6 +1,6 @@
 [![MIT Licencse](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-This is a community resource for making EDM plots.  The most reliable numbers are the measured EDM values (found in the [data files](https://github.com/Jayich-Lab/EDM-Limits/tree/main/data)).  Bounds on theta QCD, etc. are derived from the EDM values and rely on conversion factors that come with their own uncertainties.  N.B. the new particle mass reach is not based on published values and should be taken as illustrative.  This repository is a work in progress with many rough edges (see the [Issues]([#To-Dos](https://github.com/Jayich-Lab/EDM-Limits/issues)) ), but I wanted to make this public to streamline data access and to receive feedback.  
+This is a community resource for making EDM plots.  The most reliable numbers are the measured EDM values (found in the [data files](https://github.com/Jayich-Lab/EDM-Limits/tree/main/data)).  Bounds on theta QCD, etc. are derived from the EDM values and rely on conversion factors that come with their own uncertainties.  N.B. the new particle mass reach is not based on published values and should be taken as illustrative.  This repository is a work in progress with many rough edges (see the [Issues](https://github.com/Jayich-Lab/EDM-Limits/issues)), but I wanted to make this public to streamline data access and to receive feedback.  
 
 ---
 
