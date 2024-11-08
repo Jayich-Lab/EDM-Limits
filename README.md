@@ -28,6 +28,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/theta-qcd-li
 &nbsp; \
 &nbsp; \
 &nbsp; \
+&nbsp; \
 &nbsp; 
 
 ---
@@ -36,6 +37,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/theta-qcd-li
 
 ### **Quark chromo EDM bounds**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/quark-chromo-edm-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/quark-chromo-edm-limits.pdf) \
+&nbsp; \
 &nbsp; \
 &nbsp; \
 &nbsp; \
@@ -52,6 +54,8 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 &nbsp; \
 &nbsp; \
 &nbsp; \
+&nbsp; \
+&nbsp; \
 &nbsp; 
 
 ---
@@ -60,6 +64,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 
 ### **Electron EDM limits**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm-limits.pdf) \
+&nbsp; \
 &nbsp; \
 &nbsp; \
 &nbsp; \
@@ -76,6 +81,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop
 &nbsp; \
 &nbsp; \
 &nbsp; \
+&nbsp; \
 &nbsp; 
 
 
@@ -86,6 +92,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop
 
 ### **eEDM 2 loop mass reach**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-2-loop.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-2-loop.pdf) \
+&nbsp; \
 &nbsp; \
 &nbsp; \
 &nbsp; \
