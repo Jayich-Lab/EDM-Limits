@@ -21,7 +21,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/hadronic-edm
 <img align="right" width="300" src="plots/theta-qcd-limits.png">  
 
 
-# **Theta QCD bounds**
+### **Theta QCD bounds**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/theta-qcd-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/theta-qcd-limits.pdf) \
 &nbsp; \
 &nbsp; \
