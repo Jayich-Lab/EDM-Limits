@@ -6,7 +6,7 @@ This is a community resource for making EDM plots.  The most reliable numbers ar
 
 <img align="right" width="300" src="plots/hadronic-edm-limits.png">  
 
-# **Hadronic EDMs**
+### **Hadronic EDMs**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/hadronic-edm-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/hadronic-edm-limits.pdf) \
 &nbsp; \
 &nbsp; \
@@ -31,7 +31,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/theta-qcd-li
 
 <img align="right" width="300" src="plots/quark-chromo-edm-limits.png"> 
 
-# **Quark chromo EDM bounds**
+### **Quark chromo EDM bounds**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/quark-chromo-edm-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/quark-chromo-edm-limits.pdf) \
 &nbsp; \
 &nbsp; \
@@ -44,7 +44,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/quark-chromo
 
 <img align="right" width="300" src="plots/new-particle-limits.png">
 
-# **New particle mass reach**
+### **New particle mass reach**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle-limits.pdf) \
 &nbsp; \
 &nbsp; \
@@ -55,7 +55,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/new-particle
 
 <img align="right" width="300" src="plots/electron-edm-limits.png">
 
-# **Electron EDM limits**
+### **Electron EDM limits**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm-limits.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm-limits.pdf) \
 &nbsp; \
 &nbsp; \
@@ -67,7 +67,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/electron-edm
 
 <img align="right" width="300" src="plots/e-edm-1-loop.png">
 
-# **eEDM 1 loop mass reach**
+### **eEDM 1 loop mass reach**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop.pdf) \
 &nbsp; \
 &nbsp; \
@@ -81,7 +81,7 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-1-loop
 <img align="right" width="300" src="plots/e-edm-2-loop.png">
 
 
-# **eEDM 2 loop mass reach**
+### **eEDM 2 loop mass reach**
 plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-2-loop.png), [pdf](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-2-loop.pdf) \
 &nbsp; \
 &nbsp; \
