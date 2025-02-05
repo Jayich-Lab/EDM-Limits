@@ -1,9 +1,11 @@
 # publication year, EDM limit in e*cm, and reference identifier
 2020	1.8e-26	Abel2020
 2015	3e-26	Pendlebury2015
+2014    5.5e-26 Serebrov2014
 2006	2.9e-26	Baker2006
 1999	6.3e-26	Harris1999
 1996	9.7e-26	Altarev1996
+1992    1.1e-25 Altarev1992
 1990	12e-26	Smith1990
 1986	2.6e-25	Altarev1986
 1984	5.1e-25	Pendlebury1984
@@ -12,7 +14,9 @@
 1977	3e-24	Dress1977
 1973	1e-23	Dress1973
 1969	5e-23	Baird1969
+1969    1e-21   Cohen1969
 1968	3e-22	Dress1968
 1967	8e-22	Miller1967
 1967	10.2e-22	Shull1967
 1957	5e-20	Smith1957
+1950    3e-18   Purcell1950
