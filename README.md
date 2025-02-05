@@ -104,8 +104,8 @@ plot: [png](https://github.com/Jayich-Lab/EDM-Limits/raw/main/plots/e-edm-2-loop
 
 # Acknowledgements
 
-**Thank you to**: Jordy De Vries, Dave DeMille, Mingyu Fan, Nick Hutzler, Luka Sever-Walter, and Jaideep Singh for help making the plots.
+**Thank you to**: Jordy De Vries, Dave DeMille, Mingyu Fan, Nick Hutzler, Prajwal Murthy, Luka Sever-Walter, and Jaideep Singh for help with this project.  The article Kirch and Schmidt-Wellenburg, *Search for electric dipole moments*, EPJ Web of Conferences, **234**, 01007 (2020) was a helpful reference.
 
-This repository was inspired by https://github.com/cajohare/AxionLimits
+This project was inspired by Dave DeMille's electron EDM limit plot and https://github.com/cajohare/AxionLimits.  
 
 
