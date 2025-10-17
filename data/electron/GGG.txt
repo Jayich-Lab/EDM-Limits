@@ -1,3 +1,3 @@
 # publication year, eEDM limit in e*cm, reference key
-2015	7.8e-25	Kim2015
+2015	1.9e-24	Kim2015
 
