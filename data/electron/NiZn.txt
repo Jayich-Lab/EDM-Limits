@@ -1,0 +1,2 @@
+# publication year, eEDM limit in e*cm, reference key
+1978	2.7e-22	Vasilev1978
