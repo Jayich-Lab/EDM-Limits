@@ -1,6 +1,6 @@
 # publication year, EDM limit in e*cm, and reference identifier
-1991	7.5e-23	Cho1991
 1980    1.0e-20 Hinds1980
 1969    2.2e-20 Harrison1969
 1984    3.2e-20 Wilkening1984
 1987    1.5e-21 Schropp1987
+1989    1.4e-22 Cho1989
